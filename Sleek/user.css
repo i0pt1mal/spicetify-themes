@@ -262,9 +262,9 @@ p.main-buddyFeed-timestamp.main-type-finale,
   display: none;
 }
 
- /* remove vector (circle) from input bar to allow padding to be reduced */
- .jnJioQZqKVcbP_kkmTQ2 {
-   opacity: 0;
+ /* remove vector from input bar to allow padding to be reduced */
+ .H6jh9Xd7DNOq3NsLDmCB {
+   visibility: hidden;
  } 
 
 /* change input box appearance */
